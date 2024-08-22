@@ -77,4 +77,9 @@
     .opcoes{
         display: flex;
     }
+
+    .opcoes__item{
+        padding: 2em;
+        text-transform: uppercase;
+    }
 }
