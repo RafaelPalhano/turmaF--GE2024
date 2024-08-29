@@ -129,4 +129,12 @@
         margin-right: auto;
     }
 
+    .container__texto{
+        display: block;
+    }
+
+}
+
+.container__texto{
+    display: none;
 }
